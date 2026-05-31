@@ -10,6 +10,20 @@
 
 A modern, browser-based coding practice platform inspired by FreeCodeCamp. Learn programming through structured tasks, real-time coding and instant evaluation — **no local environment setup required**.
 
+### 🚀 my personal fork: roadmap ui/ux redesign
+> **my contribution:** i engineered a complete frontend redesign for the roadmap feature, replacing the static layout with a highly **interactive timeline** and an **enhanced search ui** to vastly improve user navigation.
+>
+> 🎥 **demo video:**
+> * 🔴 **before (original ui):** [watch the original layout demo](https://drive.google.com/file/d/1vAvRf9hidRDg_g3bbamLNqEWVwE8Wbqp/view?usp=sharing) — *shows the static, clunky roadmap interface.*
+* 🟢 **after (my redesign):** [watch my interactive redesign demo](https://drive.google.com/file/d/1jtO0o-pZ-hqgINRgmQiGyiSmBG5ODqb5/view?usp=sharing) — *shows the smooth, responsive timeline and optimized search component in action.*
+* 
+
+#### 🛠️ what i engineered & why:
+* **interactive timeline:** built a responsive, dynamic timeline interface to replace the old clunky layout, making tracking coding milestones much more intuitive.
+* **enhanced search ui:** implemented a cleaner, faster search component to help users filter roadmap items instantly.
+
+---
+
 **[Live Demo](https://codevibeforyou.netlify.app/)** •
 **[Project Structure](#project-structure)** •
 **[Contributor Leaderboard](CONTRIBUTOR_LEADERBOARD.md)** •
